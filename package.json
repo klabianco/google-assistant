@@ -1,0 +1,19 @@
+{
+  "name": "two-line-assistant-action",
+  "version": "1.0.0",
+  "description": "Google Assistant Class for storing 2 lines of info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klabianco/google-assistant.git"
+  },
+  "author": "Kevin Labianco",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/klabianco/google-assistant/issues"
+  },
+  "homepage": "https://github.com/klabianco/google-assistant#readme"
+}
