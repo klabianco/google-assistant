@@ -53,3 +53,5 @@ class TwoLineAssistantAction {
             return r;
         }
 }
+
+module.exports = TwoLineAssistantAction;
